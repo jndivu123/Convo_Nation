@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306128439745",
+    "project_id": "convonation-cc567",
+    "storage_bucket": "convonation-cc567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306128439745:android:e5e9ef1f821b4b63e30740",
+        "android_client_info": {
+          "package_name": "divujn.convo_nation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306128439745-8oc5l774q3ij3sjmh87out5g4kt49aii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpJQuLKxjhHjTq1Rva201Q8EhUWsz0aEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306128439745-8oc5l774q3ij3sjmh87out5g4kt49aii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
